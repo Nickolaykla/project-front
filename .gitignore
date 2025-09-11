@@ -1,5 +1,5 @@
 .idea
-.smarttomcat
 /target
 *.iml
 /lib
+.smarttomcat
